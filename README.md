@@ -1,4 +1,4 @@
-# COEN 280 -- Database Systems 
+# COEN 280 -- Database Systems @ Santa Clara University
 
 ### MovieSearch-Database-Application
 Technologies: Java, Oracle SQL.
